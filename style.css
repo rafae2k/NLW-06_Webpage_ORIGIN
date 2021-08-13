@@ -1,0 +1,30 @@
+/* RESET */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+ :root {}
+
+#header {
+    height: 4.5rem;
+    display: flex;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.container {
+    width: 100%;
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+}
